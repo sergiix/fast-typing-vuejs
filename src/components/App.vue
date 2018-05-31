@@ -2,7 +2,7 @@
   <div id="app">
     <div class="columns">
       <div class="column is-1 is-offset-11">
-        <a href="https://github.com/sergiix/fast-typing-vue" target="_blank">Source code</a>
+        <a href="https://github.com/sergiix/fast-typing-vuejs" target="_blank">Source code</a>
       </div>
     </div>
     <div class="columns">
