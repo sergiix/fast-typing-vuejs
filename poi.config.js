@@ -6,6 +6,7 @@ module.exports = {
     'src/polyfills.js',
     'src/index.js'
   ],
+  homepage: '.',
   html: {
     title: pkg.productName,
     description: pkg.description,
